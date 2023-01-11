@@ -56,22 +56,24 @@ The example above clearly shows your script must be an executable. You must use 
 * Files to turn in : cv.html
 * Allowed functions : n/a
 
-You will write your resume in HTML/css respect the following constraints:
+You will write your resume in `HTML/css` respect the following constraints:
 * You must respect the semantics of your HTML tags, as well as the separation
 between style and content.
 * You must create a consistent HTML file with the minimum required content: name,
 surname, skills and career path.
-* You must display at least one title with the title tag and a title with the h1 tag.
-* You must use at least one table with the table, th, tr and td tags.
-* You must use at least a list with the ul tag and a list with the ol tag. The elements
-must use a li tag.
-* The table borders must be visible (solid). The table borders must be merged
-(collapse).
-* The lowest right cell of a table must have a #424242 border color.
+* You must display at least one title with the `title` tag and a title with the `h1` tag.
+* You must use at least one table with the `table`, `th`, `tr` and `td` tags.
+* You must use at least a list with the `ul` tag and a list with the `ol` tag. The elements
+must use a `li` tag.
+* The table borders must be visible (`solid`). The table borders must be merged
+(`collapse`).
+* The lowest right cell of a table must have a `#424242` border color.
 * You must use a different syntactic solution for each previous instuctions: for the
-first one, use the style tag in the head of your page. For the second, use a style
+first one, use the `style` tag in the head of your page. For the second, use a style
 attribute in the tag you see fit.
 
 No special instruction about the veracity of informations. You
 can craft a crazy resume if you like, as long as you follow the
 instructions above.
+
+Some theory in HTML/CSS: https://github.com/MariaKorshunova/LearnToCode/tree/master/Base_HTML_CSS

@@ -77,3 +77,53 @@ can craft a crazy resume if you like, as long as you follow the
 instructions above.
 
 Some theory in HTML/CSS: https://github.com/MariaKorshunova/LearnToCode/tree/master/Base_HTML_CSS
+
+### Exercice 02: Email sending form
+
+* Turn-in directory : ex02/
+* Files to turn in : form.html
+* Allowed functions : n/a
+
+Create a HTML form that represents the usual informations of any contact. This form
+will show the following fields:
+
+* `Firstname`: a text field.
+* `Name`: a text field, also.
+* `Age`: you must use the specific numeric field specific to the `HTML5`.
+* `Phone`: you must use the tel field specific to the `HTML5`.
+* `Email` : you must use the email field specific to the `HTML5`.
+* `Student at 42?`: you must use the checkbox field.
+* `Gender`: you must use radio buttons with the values `Male`, `Female` and `Other`.
+* A form submission button. The `onclick` attribute of your button must be: `displayFormContent`.
+
+The tarball `d00.tar.gz` in this subject appendix contains a `ex02/` sub-folder that
+contains a `Javascript popup.js` file written by your boss’s son, who’s an intern in your company. And since you would not like to have your boss’s son feel like an incompetent slob as far as programming goes, you cannot modify his file, which must be used as is.
+
+A thorough reading and a superficial understanding of the provided
+Javascript code are required to complete this exercise.
+
+You must correctly integrate this Javascript file in your `HTML` page. If your `HTML`
+code is correct, pushing the form button will make a super modern popup appear. It will contain the fields and values of your form. If it doesn’t, your `HTML` code is flawed.
+
+### Exercice 02: Web page replicating
+
+* Turn-in directory : ex03/
+* Files to turn in : copy.html
+* Allowed functions : n/a
+
+A competing business has uploaded a website that’s nicer than yours. Thanks to a
+serious mission of industrial espionage, your boss gets a screenshot of a page and its css
+file. You can access both those files in the appendix of this subject in the d00.tar.gz
+archive and its `ex03/` sub-folder.
+
+You must replicate this page as faithfully as possible!
+Figure VI.1: The screenshot of the page you must replicate. Image scale is non-contractual.
+
+Once again, you will have to separate style and content, respect the tags’ semantics
+you will use and keep the structure logical in your document.
+
+You must use the provided `css` file without modifying it. A "fresh" version of the
+`css` will be used during the evaluation in order to check whether you have followed this
+instruction.
+
+Про тег `<progress>`: http://htmlbook.ru/index.php/html/progress
